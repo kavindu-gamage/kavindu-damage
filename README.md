@@ -3,7 +3,9 @@
 
 <h1 align="center" style="font-weight:bold;">Hey there<img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28">, I'm Kavindu Gamage  <img src="https://emojis.slackmojis.com/emojis/images/1643515038/10677/among_us.png?1643515038" width="28"/></h1>
 
-<h3 align="center">Fresh Engineering Graduate</h3>
+<h3 align="center">Fresh Engineering Graduate!👨‍🎓
+</h3>
+<p align="center" > A fast learner and hardworking individual who strives for perfection in every endeavor. I thrive on learning new things and love to inspire and collaborate within a team environment to achieve excellence.</p>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=kavindu-gamage&label=Profile%20views&color=0e75b6&style=flat" alt="kavindu-gamage" /> </p>
 
